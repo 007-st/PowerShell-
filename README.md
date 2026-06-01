@@ -23,18 +23,12 @@
 **3，****提交要求**
 
 提交csv文件，使用UTF-8编码格式，提交的字段格式样例如下，csv 文件应包含两列：name和label，该文件应包含表头，并具有以下格式：
-
- 
-
-![img](file:///C:\Users\007\AppData\Local\Temp\ksohtml19300\wps3.jpg) 
-
- 
+<img width="416" height="124" alt="image" src="https://github.com/user-attachments/assets/116ebf52-c464-4f9c-99ee-13fdcc5e1e22" />
 
 **4,****评分标准**
 
 竞赛的评估指标为宏平均F1值，计算公式如下：
-
-![img](file:///C:\Users\007\AppData\Local\Temp\ksohtml19300\wps4.jpg)
+<img width="326" height="98" alt="image" src="https://github.com/user-attachments/assets/f61159db-e93e-4443-b138-1139b30b1424" />
 
 ## 解题思路
 
